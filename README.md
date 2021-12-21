@@ -1,7 +1,9 @@
 This model was trained on colposcopic pictures of the Scientific Center for Family Health and Human Reproduction, which is located in Irkutsk, Russia.
+
 For training, 1053 images with a size of 512 * 512 pixels were used.
+
 Training parameters: StyleGAN v3, seed=700; gamma=10; cfg=stylegan2; batch=8.
-GPU: Gforce GTX 2080Ti 11Gb VRAM
+
 GPU: Gforce GTX 2080Ti 11Gb VRAM
 
 Verification of the diagnoses of patients whose images were used to train this model was not carried out.
